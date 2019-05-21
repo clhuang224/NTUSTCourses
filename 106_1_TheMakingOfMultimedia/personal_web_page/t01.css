@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+ul,ol{
+	margin: 0px;
+	padding: 0px;
+	list-style-type:none;
+	}
+
+#nav{
+	width:400px;
+	height:50px;
+	background-color: rgba(0,0,0,0.5);
+	border-radius:10px;
+	}
+	
+#nav ul li{
+	float:left;
+	line-height:50px;
+	padding:0px 15px;
+	positon:relative;}
+	
+#nav ul li:hover .owrap{
+	display:block;
+	}
+	
+#nav ul li .owrap{
+	position:absolute;
+	background-color: rgba(0,0,0,0.5);
+	border-radius:0px 0px 10px 10px;
+	padding: 0px 10px 10px 10px;
+	display:none;}
+	
+#nav ul li ol li{
+	float:none;
+	line-height:20px;
+	padding:0px 5px;
+	}
