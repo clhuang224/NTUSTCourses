@@ -9,3 +9,4 @@
 |107_2|NTUST|CS2006302|計算機組織|[Computer Organization](https://github.com/clhuang224/NTUSTCourses/tree/master/107_2_ComputerOrganization)|
 |107_2|NTUST|CS3005302|物件導向程式設計|[Object-oriented Programming](https://github.com/clhuang224/NTUSTCourses/tree/master/107_2_LabForObjectOrientedProgramming)|
 |107_2|NTUST|CS1010302|物件導向程式設計實習|[Lab for Object Oriented Programming](https://github.com/clhuang224/NTUSTCourses/tree/master/107_2_ObjectOrientedProgramming)|
+|108_1|NTUST|CS4003701|資訊安全導論|[Introduction to Information Security](https://github.com/clhuang224/NTUSTCourses/tree/master/108_1_InformationSecurity)|
