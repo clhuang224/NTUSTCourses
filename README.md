@@ -12,7 +12,7 @@
 |107_2|NTUST|CS1010302|物件導向程式設計實習|[Lab for Object Oriented Programming](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/107_2_ObjectOrientedProgramming)|
 |108_1|NTUST|CS4003701|資訊安全導論|[Introduction to Information Security](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/108_1_InformationSecurity)|
 |108_2|NTUST|CS3010301|資料庫系統|[Database Systems](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/108_2_DatabaseSystems)|
-|108_2|NTUST|MI4002301|資料庫管理系統|[Database Management Systems](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/108_1_DatabaseManagementSystems)|
+|108_2|NTUST|IM4503701|資料庫管理系統|[Database Management Systems](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/108_1_DatabaseManagementSystems)|
 |109_1|NTU|CSIE7130|演算法設計方法論|[Design Strategies for Computer Algorithms](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/109_1_DesignStrategiesForAlgorithms)|
 
 ## Design
