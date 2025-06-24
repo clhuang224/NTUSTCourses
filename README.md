@@ -8,8 +8,6 @@
 |:-:|:-:|:-:|-|-|
 |106_2|NTUST|EC1003301|程式設計|[Computer Programming](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/106_2_ComputerProgramming)|
 |107_2|NTUST|CS2006302|計算機組織|[Computer Organization](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/107_2_ComputerOrganization)|
-|107_2|NTUST|CS3005302|物件導向程式設計|[Object-oriented Programming](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/107_2_LabForObjectOrientedProgramming)|
-|107_2|NTUST|CS1010302|物件導向程式設計實習|[Lab for Object Oriented Programming](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/107_2_ObjectOrientedProgramming)|
 |108_1|NTUST|CS4003701|資訊安全導論|[Introduction to Information Security](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/108_1_InformationSecurity)|
 |108_2|NTUST|CS3010301|資料庫系統|[Database Systems](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/108_2_DatabaseSystems)|
 |108_2|NTUST|IM4503701|資料庫管理系統|[Database Management Systems](https://github.com/clhuang224/NTUSTCourses/tree/master/ComputerScience/108_1_DatabaseManagementSystems)|
