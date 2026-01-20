@@ -17,7 +17,7 @@
 
 |學期|開課學校|課程編號|中文名稱|英文名稱|
 |:-:|:-:|:-:|-|-|
-|106_1|NTU|CSIE 1922|多媒體設計|[The Making of Multimedia](https://github.com/clhuang224/NTUSTCourses/tree/master/Design/106_1_TheMakingOfMultimedia)|
+|106_1|NTU|CSIE 1922|多媒體製作|[The Making of Multimedia](https://github.com/clhuang224/NTUSTCourses/tree/master/Design/106_1_TheMakingOfMultimedia)|
 
 ## Language
 
