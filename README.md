@@ -30,6 +30,7 @@
 |107_1|NTUST|FE1741702|商用英文書信|[Business English Writing](./Language/107_1_BusinessEnglishWriting)|
 |108_1|NTNU|70357|日文閱讀與寫作|[Japanese Reading and Writing](./Language/108_1_JapaneseReadingAndWriting)|
 |108_2|NTUST|FL3831701|觀光日文|[Tourism Japanese](./Language/108_2_TourismJapanese)|
+|109_2|NTNU|3N2411|日語會話與聽講|[Japanese Conversation and Listening Comprehension](./Language/109_2_JapaneseConversation)|
 
 ## Liberal
 
